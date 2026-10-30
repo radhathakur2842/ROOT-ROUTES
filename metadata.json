@@ -1,0 +1,6 @@
+{
+  "name": "ROOT & ROUTES",
+  "description": "Migrant family support and government welfare services continuity platform for India — Every Move, Every Right, Every Family.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
